@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/ericaghdz/">Eric Aguilar-Hernandez</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love to learn about new technologies, processes, and procedures that help harden systems. From vulnerability management to threat detection, these are some of the projects that have allowed me to work hands-on with enterprise security tools and cultivate a deep understanding of blue team workflows. Please feel free to check my projects out--some are still a current work in progress--and see the work I’ve put into enhancing security operations!
 
 
 ## ⚠️ Vulnerability Management Projects
