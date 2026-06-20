@@ -10,10 +10,14 @@ I'm passionate about cybersecurity and love to learn about new technologies, pro
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunt (Anonymous IP Sign-In Incident)](https://github.com/ericaghdz/threat-hunt-anonymous-IP-sign-in)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](WORK IN PROGRESS)**
+
+## 🚨 Miscellaneous Threat Hunting Scenarios
+
 - **[Threat Hunting Scenario (Internet-Facing Virtual Machine Exposed)](https://github.com/ericaghdz/threat-hunting-scenario-publicly-exposed-vm)**
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/ericaghdz/threat-hunting-scenario-sudden-network-slowdowns)**
 - **[Threat Hunting Scenario (PwnCrypt Ransomware Attack)](https://github.com/ericaghdz/threat-hunting-scenario-pwncrypt-ransomware)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](WORK IN PROGRESS)**
 
 <hr/>
 
