@@ -1,17 +1,15 @@
 # <a href="https://www.linkedin.com/in/ericaghdz/">Eric Aguilar-Hernandez</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love to learn about new technologies, processes, and procedures that help harden systems. From vulnerability management to threat detection, these are some of the projects that have allowed me to work hands-on with enterprise security tools and cultivate a deep understanding of blue team workflows. Please feel free to check my projects out--some are still a current work in progress--and see the work I’ve put into enhancing security operations!
+I'm passionate about all things IT/Cybersecurity and love to learn about new technologies, processes, and procedures that help harden systems. From vulnerability management to threat detection, these are some of the projects that have allowed me to work hands-on with enterprise security tools and cultivate a deep understanding of blue team workflows. Please feel free to check my projects out--some are still a current work in progress--and see the work I’ve put into enhancing security operations!
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Project
 
 - **[Vulnerability Management Program Implementation](https://github.com/ericaghdz/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](WORK IN PROGRESS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunt (Anonymous IP Sign-In Incident)](https://github.com/ericaghdz/threat-hunt-anonymous-IP-sign-in)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](WORK IN PROGRESS)**
 
 ## 🚨 Miscellaneous Threat Hunting Scenarios
 
