@@ -6,9 +6,10 @@ I'm passionate about all things IT/Cybersecurity and love to learn about new tec
 
 - **[Threat Hunt (Anonymous IP Sign-In Incident)](https://github.com/ericaghdz/threat-hunt-anonymous-IP-sign-in)**
 
-## 🐍 Failed Login Log Parser with Python
+## 🐍 Python Projects
 
 - **[Failed Login Log Parser with Python](https://github.com/ericaghdz/failed-login-log-parser)**
+- **[Password Checker with Python](https://github.com/ericaghdz/password-checker-python-tool)**
 
 ## 🚨 Miscellaneous Threat Hunting Scenarios
 
